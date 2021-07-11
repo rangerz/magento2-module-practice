@@ -4,6 +4,6 @@ use Magento\Framework\Component\ComponentRegistrar;
 
 ComponentRegistrar::register(
     ComponentRegistrar::MODULE,
-    'Rangerz_Template',
+    'Rangerz_Practice',
     __DIR__
 );

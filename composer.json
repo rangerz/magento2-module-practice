@@ -1,6 +1,6 @@
 {
-    "name": "rangerz/magento2-module-template",
-    "description": "Magento 2 module template for composer packages in a github repository.",
+    "name": "rangerz/magento2-module-practice",
+    "description": "A Magento 2 module to practice everything for learning Magento 2",
     "require": {
         "php": ">=7.3",
         "magento/framework": ">=103"
@@ -15,7 +15,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Rangerz\\Template\\": ""
+            "Rangerz\\Practice\\": ""
         }
     }
 }
